@@ -4,6 +4,7 @@ web2py-appreport is a plugin for web2py, it was designed to help the generation 
 - wiki for documentations and examples: https://github.com/lucasdavila/web2py-appreport/wiki 
 
 [![endorse](http://api.coderwall.com/lucasdavila/endorsecount.png)](http://coderwall.com/lucasdavila)
+Thank you
 
 ## CHANGE LOG
 
